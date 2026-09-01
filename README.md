@@ -98,11 +98,11 @@ Alongside software development, I have experience in entrepreneurship, business 
 
 ## 📈 GitHub Activity
 
-<div align="center">
+Explore my repositories, contributions, and current projects directly on GitHub.
 
-![Alic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alic-Merlivat&show_icons=true&hide_border=true)
+[![View my GitHub profile](https://img.shields.io/badge/View_my_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alic-Merlivat)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alic-Merlivat&layout=compact&hide_border=true)
+[![GitHub followers](https://img.shields.io/github/followers/Alic-Merlivat?style=for-the-badge&logo=github&label=Followers)](https://github.com/Alic-Merlivat?tab=followers)
 
 </div>
 
