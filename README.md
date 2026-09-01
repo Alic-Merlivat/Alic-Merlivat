@@ -6,8 +6,8 @@
 
 I build practical digital products by combining software development with real-world business experience.
 
-[![GitHub followers](https://img.shields.io/github/followers/FluffyKittens82?style=social)](https://github.com/FluffyKittens82?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=FluffyKittens82&color=2563eb&style=flat-square&label=Profile+views)](https://github.com/FluffyKittens82)
+[![GitHub followers](https://img.shields.io/github/followers/Alic-Merlivat?style=social)](https://github.com/Alic-Merlivat?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=Alic-Merlivat&color=2563eb&style=flat-square&label=Profile+views)](https://github.com/Alic-Merlivat)
 
 </div>
 
@@ -76,7 +76,7 @@ A collection of programming exercises and small projects involving data analysis
 
 **Concepts:** Python · Pandas · algorithms · JSON/CSV · data analysis
 
-➡️ **[Explore my repositories](https://github.com/FluffyKittens82?tab=repositories)**
+➡️ **[Explore my repositories](https://github.com/Alic-Merlivat?tab=repositories)**
 
 ## 🏢 Entrepreneurship & Product Thinking
 
@@ -100,9 +100,9 @@ Alongside software development, I have experience in entrepreneurship, business 
 
 <div align="center">
 
-![Alic's GitHub stats](https://github-readme-stats.vercel.app/api?username=FluffyKittens82&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+![Alic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alic-Merlivat&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FluffyKittens82&layout=compact&theme=transparent&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alic-Merlivat&layout=compact&theme=transparent&hide_border=true)
 
 </div>
 
@@ -114,7 +114,7 @@ I am interested in software development, data, AI, entrepreneurship, and useful 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-FluffyKittens82-181717?style=for-the-badge&logo=github)](https://github.com/FluffyKittens82)
+[![GitHub](https://img.shields.io/badge/GitHub-Alic-Merlivat-181717?style=for-the-badge&logo=github)](https://github.com/Alic-Merlivat)
 
 ### Thanks for visiting! ⭐
 
