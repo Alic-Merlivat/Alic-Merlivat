@@ -100,9 +100,9 @@ Alongside software development, I have experience in entrepreneurship, business 
 
 <div align="center">
 
-![Alic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alic-Merlivat&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+![Alic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alic-Merlivat&show_icons=true&hide_border=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alic-Merlivat&layout=compact&theme=transparent&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alic-Merlivat&layout=compact&hide_border=true)
 
 </div>
 
@@ -114,7 +114,7 @@ I am interested in software development, data, AI, entrepreneurship, and useful 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Alic-Merlivat-181717?style=for-the-badge&logo=github)](https://github.com/Alic-Merlivat)
+[![GitHub](https://img.shields.io/badge/GitHub-Alic--Merlivat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alic-Merlivat)
 
 ### Thanks for visiting! ⭐
 
