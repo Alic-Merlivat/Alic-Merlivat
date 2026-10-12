@@ -46,12 +46,6 @@ My background gives me a product-focused approach to development: I care not onl
 
 ## 🚀 Selected Projects
 
-### 💬 Quotes API App
-
-A web application that retrieves and displays inspirational quotes from an external API, with loading states, timeout handling, and a video background.
-
-**Concepts:** APIs · JavaScript · asynchronous requests · UI states · error handling
-
 ### ⏱️ Focus Flow
 
 A productivity application with multiple timers designed to help users structure focused work sessions and breaks.
@@ -69,12 +63,6 @@ A product concept that helps users track food from photos and receipts, monitor 
 An interactive assessment that helps people identify and rank their most important relationship needs through adaptive comparisons.
 
 **Concepts:** assessment design · adaptive pairing · ranking algorithms · user-centered design
-
-### 📊 Data & Algorithm Exercises
-
-A collection of programming exercises and small projects involving data analysis, algorithms, APIs, text processing, and problem solving.
-
-**Concepts:** Python · Pandas · algorithms · JSON/CSV · data analysis
 
 ➡️ **[Explore my repositories](https://github.com/Alic-Merlivat?tab=repositories)**
 
