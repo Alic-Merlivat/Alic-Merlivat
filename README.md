@@ -46,18 +46,6 @@ My background gives me a product-focused approach to development: I care not onl
 
 ## 🚀 Selected Projects
 
-### ⏱️ Focus Flow
-
-A productivity application with multiple timers designed to help users structure focused work sessions and breaks.
-
-**Concepts:** JavaScript · time-based logic · responsive interface · productivity UX
-
-### 🥗 AI Food Assistant
-
-A product concept that helps users track food from photos and receipts, monitor expiry dates, receive recipe suggestions, and work toward nutrition goals.
-
-**Concepts:** AI · image recognition · inventory management · recommendation systems · product design
-
 ### ❤️ Relationship Needs Assessment
 
 An interactive assessment that helps people identify and rank their most important relationship needs through adaptive comparisons.
