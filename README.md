@@ -46,6 +46,30 @@ My background gives me a product-focused approach to development: I care not onl
 
 ## 🚀 Selected Projects
 
+### 💪 REPS — AI Pushup Counter & Squad Fitness
+
+A camera-powered fitness app that uses on-device computer vision to count pushups and check form, with live squad leaderboards, workout progress charts, and gamified challenges.
+
+**Tech:** React · TypeScript · MediaPipe Pose · Firebase · Tailwind CSS
+
+🔗 **[View project](https://github.com/Alic-Merlivat/REPS-pushups-app)** · **[Try the web app](https://ais-pre-vmm4vtwn776gejugukhniq-81540067927.europe-west2.run.app)**
+
+### 🚗 Street Watch — AI Vehicle Scanner
+
+An Android-to-Python computer vision system that detects passing vehicles, uses AI to identify car makes/models and license plates, and organizes sightings in a local dashboard with Excel export.
+
+**Tech:** Python · FastAPI · YOLOv8 · OpenCV · Claude Vision API · Kotlin · Excel
+
+🔗 **[View project](https://github.com/Alic-Merlivat/Street-Car-Scanner)**
+
+### 🌤️ AI Morning Weather Assistant
+
+An n8n workflow that retrieves Riga's weather forecast, identifies useful conditions for the day, and automatically sends a concise morning briefing through WhatsApp.
+
+**Tech:** n8n · JavaScript · OpenWeather API · WhatsApp Cloud API · REST APIs
+
+🔗 **[View project](https://github.com/Alic-Merlivat/n8n-ai-morning-weather-agent)**
+
 ### ❤️ Relationship Needs Assessment
 
 An interactive assessment that helps people identify and rank their most important relationship needs through adaptive comparisons.
